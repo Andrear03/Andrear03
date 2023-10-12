@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Diego Reyes</h1>
+<h1 align="center">Hi, I'm Diego Reyes</h1>
+
 - 🔭 I have worked in [Project Kankas](https://github.com/Andrear03/PolleriaKankas)
 
 - 🔭 I have worked in [Proyecto Business Travel](https://github.com/Andrear03/Project_BusinnesTravel)
