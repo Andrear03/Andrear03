@@ -4,8 +4,6 @@
 
 - 🔭 I have worked in [Proyecto Business Travel](https://github.com/Andrear03/Project_BusinnesTravel)
 
-- 🔭 I have worked in [Project Laditec](https://github.com/UPT-FAING-EPIS/proyecto_curso-laboratorio-automotriz-laditec)
-
 - 🔭 I have worked in [Services API Project](https://github.com/UPT-FAING-EPIS/proyecto-unidad-iii-pds-api_servicios)
 
 <h3 align="left">Connect with me:</h3>
